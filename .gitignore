@@ -1,0 +1,16 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+
+# PyCharm settings
+.idea/
+
+# Pytest / Cache
+.pytest_cache/
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+Thumbs.db
